@@ -1,0 +1,156 @@
+#contenedor{
+    position: absolute;
+    height: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: black;
+}
+
+#fondo{
+    background-color: rgb(144, 203, 243);
+    position: relative;
+    top: 5%;
+    bottom: 5%;
+    left: 0%;
+    right: 0%;
+    height: 90%;   
+}
+
+h1{ 
+    position: fixed;
+    top: 4%;
+    left: 40%;
+    font-family: 'Fredoka One', cursive;
+}
+
+#reloj1{
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    width: 4%;
+    height: auto;
+}
+
+#gusano1{
+    position: absolute;
+    left: 5%;
+    top: 35%;
+    width: 5%;
+    height: auto;
+}
+
+#tostadora1{
+    position: absolute;
+    left: 5%;
+    top: 50%;
+    width: 7%;
+    height: auto;
+}
+
+#campana1{
+    position: absolute;
+    left: 10%;
+    top: 75%;
+    width: 4%;
+    height: auto;
+}
+
+#gusano2{
+    position: absolute;
+    left: 6%;
+    top: 94%;
+    width: 5%;
+    height: auto;
+}
+
+
+#tostadora2{
+    position: absolute;
+    left: 25%;
+    top: 28%;
+    width: 6%;
+    height: auto;
+}
+
+#boca1{
+    position: absolute;
+    left: 25%;
+    top: 50%;
+    width: 6%;
+    height: auto;
+}
+
+#reloj2{
+    position: absolute;
+    left: 25%;
+    top: 75%;
+    width: 5%;
+    height: auto;
+}
+
+#jesus{
+    position: absolute;
+    left: 40%;
+    top: 15%;
+    width: 15%;
+    height: auto;
+}
+
+#gusano3{
+    position: absolute;
+    left: 63%;
+    top: 30%;
+    width: 6%;
+    height: auto;
+}
+
+#campana2{
+    position: absolute;
+    left: 63%;
+    top: 50%;
+    width: 6%;
+    height: auto;
+}
+
+#tostadora3{
+    position: absolute;
+    left: 63%;
+    top: 75%;
+    width: 8%;
+    height: auto;
+}
+
+
+#tostadora4{
+    position: absolute;
+    left: 80%;
+    top: 20%;
+    width: 6%;
+    height: auto;
+}
+
+#boca2{
+    position: absolute;
+    left: 80%;
+    top: 50%;
+    width: 7%;
+    height: auto;
+}
+
+#reloj3{
+    position: absolute;
+    left: 80%;
+    top: 80%;
+    width: 4%;
+    height: auto;
+}
+
+#counter{
+    position: absolute;
+    bottom: 0%;
+    left: 40%;
+    width: 15%;
+    height: auto;
+}
